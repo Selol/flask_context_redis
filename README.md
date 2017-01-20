@@ -3,7 +3,8 @@ A Flask extension for redis, support app context
 
 ## Why use flask_context_redis
 
-If using flask_redis, you may face issus like this
+If using flask_redis, you may face this issue:
+
 Imaging you are using app factory, you may write code like this
 
 ```python
